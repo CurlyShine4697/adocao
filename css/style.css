@@ -75,7 +75,7 @@ body{
     margin-left: 10%;
 }
 
-/*#sec{
+#sec{
     width: 100%;
     text-align: center;
 }
@@ -83,12 +83,13 @@ body{
 #sec h1{
     margin-top: 5%;
     font-size: 30px;
+    font-weight: bolder;
 }
 
 .works {
     margin-top: 5%;
 }
-*/
+
 @media screen and (max-width: 415px) {
     .t1 {
         margin-top: -25%;
@@ -109,6 +110,10 @@ body{
         width: 70%;
         margin-top: 16%;
         margin-left: 15%;
+    }
+
+    #sec h1{
+        font-size: 26px;
     }
 }
 

@@ -90,6 +90,16 @@ body{
     margin-top: 5%;
 }
 
+.btn-2{
+    width: 30%;
+    margin-top: 5%;
+    border: none;
+}
+
+.btn-2 img {
+    width: 100%;
+}
+
 @media screen and (max-width: 415px) {
     .t1 {
         margin-top: -25%;
@@ -114,6 +124,10 @@ body{
 
     #sec h1{
         font-size: 26px;
+    }
+
+    .btn-2{
+        width: 70%;
     }
 }
 

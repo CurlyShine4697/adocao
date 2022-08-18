@@ -76,11 +76,19 @@ body{
 
 @media screen and (max-width: 415px) {
     .t1 {
-       font-size: 14px;
+        margin-top: -20%;
+        margin-left: 50%;
+        font-size: 20px;
     }
     
     .t2 {
         font-size: 14px;
+    }
+
+    .btn{
+        width: 50%;
+        margin-top: 8%;
+        margin-left: 25%;
     }
 }
 

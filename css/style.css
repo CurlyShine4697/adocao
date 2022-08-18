@@ -104,6 +104,10 @@ body{
     width: 100%;
 }
 
+.line-2 {
+    width: 80%;
+}
+
 @media screen and (max-width: 415px) {
     .t1 {
         margin-top: -25%;
